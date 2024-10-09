@@ -3,7 +3,7 @@ A Simple web-based music player using Vue.js for the front end and Node.js for t
 
 ## Installation Instructions
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the app folder `cd music-app-master`
+2. Navigate to the app folder `cd Music-Player-In-Vue-master`
 3. Install dependencies: `npm install`
 4. Start the frontend application: `npm run serve`
 
